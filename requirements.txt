@@ -1,5 +1,5 @@
 opencv-python
 mediapipe
-pickle
+pickledb
 numpy
 pillow
