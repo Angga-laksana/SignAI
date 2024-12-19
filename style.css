@@ -1,0 +1,26 @@
+body{
+    background-color: #3a3a3a;
+    color: #fff;
+}
+div[data-testid="stSidebarContent"]{
+    background-color: #75584D;
+    color: #fff;
+}
+p.alert{
+    color: red;
+}
+st.sidebar.radio{
+    color: #fff;
+}
+.st-emotion-cache-fsammq{
+    color: #fff;
+}
+.st-emotion-cache-4tlk2p{
+    color: #fff;
+}
+.st-emotion-cache-13k62yr{
+    background-color: #353535;
+}
+.st-emotion-cache-h4xjwg{
+    background-color: #353535;
+}
